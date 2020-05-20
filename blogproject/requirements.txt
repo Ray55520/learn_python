@@ -21,7 +21,7 @@ djangorestframework==3.6.4
 duplicity==0.6.23
 fake-factory==9999.9.9
 html5lib==0.999999999
-httplib2==0.8
+httplib2==0.18.0
 hyperlink==17.3.1
 incremental==17.5.0
 lockfile==0.8
