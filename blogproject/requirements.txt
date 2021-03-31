@@ -25,7 +25,7 @@ httplib2==0.8
 hyperlink==17.3.1
 incremental==17.5.0
 lockfile==0.8
-lxml==3.3.3
+lxml==4.6.3
 M2Crypto==0.21.1
 Markdown==2.6.9
 Misago==0.11.0
