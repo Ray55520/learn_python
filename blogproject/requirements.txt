@@ -67,7 +67,7 @@ software-center-aptd-plugins==0.0.0
 sqlparse==0.2.3
 ssh-import-id==3.21
 system-service==0.1.6
-Twisted==13.1.0
+Twisted==20.3.0
 Twisted-Core==13.2.0
 Twisted-Web==13.2.0
 Unidecode==0.4.21
