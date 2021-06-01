@@ -72,7 +72,7 @@ Twisted-Core==13.2.0
 Twisted-Web==13.2.0
 Unidecode==0.4.21
 unity-lens-photos==1.0
-urllib3==1.7.1
+urllib3==1.26.5
 w3lib==1.18.0
 webencodings==0.5.1
 xdiagnose===3.6.3build2
